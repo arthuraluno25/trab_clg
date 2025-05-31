@@ -1,1 +1,1 @@
-# [Super Strogonoff](https://github.com/arthuraluno25/trab_clg/VsCode/supersitedoMG.html)
+# [Super Strogonoff](https://arthuraluno25.github.io/trab_clg/VsCode/supersitedoMG.html)
